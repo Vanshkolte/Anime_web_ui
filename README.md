@@ -9,4 +9,4 @@ This project showcases a modern and aesthetically pleasing Anime-themed Web User
 - **Intuitive Navigation:** User-friendly navigation for easy exploration of the content.
 - **Interactive Elements:** Incorporates interactive elements to enhance user engagement.
 - **Customizable:** Easily adaptable and customizable for different Anime-related projects.
-## Figma link : <a href = "">Click Here</a>
+## Figma link : <a href = "https://www.figma.com/proto/G8zgt84o921253K8DfqeyF/anime-web-ui?node-id=0-314&starting-point-node-id=0%3A314">Click Here</a>
